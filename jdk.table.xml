@@ -1,0 +1,307 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="AdoptOpenJDK 8" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.8.0_265&quot;" />
+      <homePath value="/opt/jdk8u265-b01" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar:///opt/jdk8u265-b01/jre/lib/charsets.jar!/" type="simple" />
+            <root url="jar:///opt/jdk8u265-b01/jre/lib/ext/cldrdata.jar!/" type="simple" />
+            <root url="jar:///opt/jdk8u265-b01/jre/lib/ext/dnsns.jar!/" type="simple" />
+            <root url="jar:///opt/jdk8u265-b01/jre/lib/ext/dtfj.jar!/" type="simple" />
+            <root url="jar:///opt/jdk8u265-b01/jre/lib/ext/dtfjview.jar!/" type="simple" />
+            <root url="jar:///opt/jdk8u265-b01/jre/lib/ext/jaccess.jar!/" type="simple" />
+            <root url="jar:///opt/jdk8u265-b01/jre/lib/ext/localedata.jar!/" type="simple" />
+            <root url="jar:///opt/jdk8u265-b01/jre/lib/ext/nashorn.jar!/" type="simple" />
+            <root url="jar:///opt/jdk8u265-b01/jre/lib/ext/sunec.jar!/" type="simple" />
+            <root url="jar:///opt/jdk8u265-b01/jre/lib/ext/sunjce_provider.jar!/" type="simple" />
+            <root url="jar:///opt/jdk8u265-b01/jre/lib/ext/sunpkcs11.jar!/" type="simple" />
+            <root url="jar:///opt/jdk8u265-b01/jre/lib/ext/traceformat.jar!/" type="simple" />
+            <root url="jar:///opt/jdk8u265-b01/jre/lib/ext/zipfs.jar!/" type="simple" />
+            <root url="jar:///opt/jdk8u265-b01/jre/lib/jce.jar!/" type="simple" />
+            <root url="jar:///opt/jdk8u265-b01/jre/lib/jsse.jar!/" type="simple" />
+            <root url="jar:///opt/jdk8u265-b01/jre/lib/management-agent.jar!/" type="simple" />
+            <root url="jar:///opt/jdk8u265-b01/jre/lib/resources.jar!/" type="simple" />
+            <root url="jar:///opt/jdk8u265-b01/jre/lib/rt.jar!/" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="jar:///opt/jdk8u265-b01/src.zip!/" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="AdoptOpenJDK 11" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;11.0.8&quot;" />
+      <homePath value="/opt/jdk-11.0.8+10" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jrt:///opt/jdk-11.0.8+10!/java.base" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/java.compiler" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/java.datatransfer" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/java.desktop" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/java.instrument" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/java.logging" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/java.management" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/java.management.rmi" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/java.naming" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/java.net.http" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/java.prefs" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/java.rmi" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/java.scripting" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/java.se" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/java.security.jgss" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/java.security.sasl" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/java.smartcardio" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/java.sql" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/java.sql.rowset" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/java.transaction.xa" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/java.xml" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/java.xml.crypto" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/jdk.accessibility" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/jdk.attach" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/jdk.charsets" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/jdk.compiler" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/jdk.crypto.ec" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/jdk.dynalink" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/jdk.editpad" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/jdk.httpserver" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/jdk.internal.ed" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/jdk.internal.jvmstat" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/jdk.internal.le" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/jdk.internal.opt" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/jdk.jartool" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/jdk.javadoc" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/jdk.jcmd" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/jdk.jconsole" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/jdk.jdeps" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/jdk.jdi" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/jdk.jdwp.agent" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/jdk.jlink" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/jdk.jshell" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/jdk.jsobject" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/jdk.localedata" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/jdk.management" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/jdk.management.agent" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/jdk.naming.dns" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/jdk.naming.rmi" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/jdk.net" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/jdk.pack" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/jdk.rmic" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/jdk.scripting.nashorn" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/jdk.scripting.nashorn.shell" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/jdk.sctp" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/jdk.security.auth" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/jdk.security.jgss" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/jdk.unsupported" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/jdk.unsupported.desktop" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/jdk.xml.dom" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/jdk.zipfs" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/openj9.cuda" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/openj9.dataaccess" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/openj9.dtfj" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/openj9.dtfjview" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/openj9.gpu" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/openj9.jvm" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/openj9.sharedclasses" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/openj9.traceformat" type="simple" />
+            <root url="jrt:///opt/jdk-11.0.8+10!/openj9.zosconditionhandling" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/java.se" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/jdk.jdi" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/jdk.net" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/java.rmi" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/java.sql" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/java.xml" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/jdk.jcmd" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/jdk.pack" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/jdk.rmic" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/jdk.sctp" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/java.base" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/jdk.jdeps" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/jdk.jlink" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/jdk.zipfs" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/java.prefs" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/jdk.attach" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/jdk.jshell" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/openj9.gpu" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/openj9.jvm" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/java.naming" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/jdk.editpad" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/jdk.jartool" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/jdk.javadoc" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/jdk.xml.dom" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/openj9.cuda" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/openj9.dtfj" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/java.desktop" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/java.logging" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/jdk.charsets" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/jdk.compiler" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/jdk.dynalink" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/jdk.jconsole" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/jdk.jsobject" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/java.compiler" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/java.net.http" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/jdk.crypto.ec" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/java.scripting" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/jdk.httpserver" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/jdk.jdwp.agent" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/jdk.localedata" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/jdk.management" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/jdk.naming.dns" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/jdk.naming.rmi" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/java.instrument" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/java.management" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/java.sql.rowset" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/java.xml.crypto" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/jdk.internal.ed" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/jdk.internal.le" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/jdk.unsupported" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/openj9.dtfjview" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/java.smartcardio" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/jdk.internal.opt" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/java.datatransfer" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/jdk.accessibility" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/jdk.security.auth" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/jdk.security.jgss" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/openj9.dataaccess" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/java.security.jgss" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/java.security.sasl" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/openj9.traceformat" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/java.management.rmi" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/java.transaction.xa" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/jdk.internal.jvmstat" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/jdk.management.agent" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/openj9.sharedclasses" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/jdk.scripting.nashorn" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/jdk.unsupported.desktop" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/jdk.scripting.nashorn.shell" type="simple" />
+            <root url="jar:///opt/jdk-11.0.8+10/lib/src.zip!/openj9.zosconditionhandling" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Oracle JDK 8" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.8.0_251&quot;" />
+      <homePath value="/opt/jdk1.8.0_251" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar:///opt/jdk1.8.0_251/jre/lib/charsets.jar!/" type="simple" />
+            <root url="jar:///opt/jdk1.8.0_251/jre/lib/deploy.jar!/" type="simple" />
+            <root url="jar:///opt/jdk1.8.0_251/jre/lib/ext/cldrdata.jar!/" type="simple" />
+            <root url="jar:///opt/jdk1.8.0_251/jre/lib/ext/dnsns.jar!/" type="simple" />
+            <root url="jar:///opt/jdk1.8.0_251/jre/lib/ext/jaccess.jar!/" type="simple" />
+            <root url="jar:///opt/jdk1.8.0_251/jre/lib/ext/jfxrt.jar!/" type="simple" />
+            <root url="jar:///opt/jdk1.8.0_251/jre/lib/ext/localedata.jar!/" type="simple" />
+            <root url="jar:///opt/jdk1.8.0_251/jre/lib/ext/nashorn.jar!/" type="simple" />
+            <root url="jar:///opt/jdk1.8.0_251/jre/lib/ext/sunec.jar!/" type="simple" />
+            <root url="jar:///opt/jdk1.8.0_251/jre/lib/ext/sunjce_provider.jar!/" type="simple" />
+            <root url="jar:///opt/jdk1.8.0_251/jre/lib/ext/sunpkcs11.jar!/" type="simple" />
+            <root url="jar:///opt/jdk1.8.0_251/jre/lib/ext/zipfs.jar!/" type="simple" />
+            <root url="jar:///opt/jdk1.8.0_251/jre/lib/javaws.jar!/" type="simple" />
+            <root url="jar:///opt/jdk1.8.0_251/jre/lib/jce.jar!/" type="simple" />
+            <root url="jar:///opt/jdk1.8.0_251/jre/lib/jfr.jar!/" type="simple" />
+            <root url="jar:///opt/jdk1.8.0_251/jre/lib/jfxswt.jar!/" type="simple" />
+            <root url="jar:///opt/jdk1.8.0_251/jre/lib/jsse.jar!/" type="simple" />
+            <root url="jar:///opt/jdk1.8.0_251/jre/lib/management-agent.jar!/" type="simple" />
+            <root url="jar:///opt/jdk1.8.0_251/jre/lib/plugin.jar!/" type="simple" />
+            <root url="jar:///opt/jdk1.8.0_251/jre/lib/resources.jar!/" type="simple" />
+            <root url="jar:///opt/jdk1.8.0_251/jre/lib/rt.jar!/" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="jar:///opt/jdk1.8.0_251/src.zip!/" type="simple" />
+            <root url="jar:///opt/jdk1.8.0_251/javafx-src.zip!/" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="1.8" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.8.0_265&quot;" />
+      <homePath value="/opt/jdk8u265-b01" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar:///opt/jdk8u265-b01/jre/lib/charsets.jar!/" type="simple" />
+            <root url="jar:///opt/jdk8u265-b01/jre/lib/ext/cldrdata.jar!/" type="simple" />
+            <root url="jar:///opt/jdk8u265-b01/jre/lib/ext/dnsns.jar!/" type="simple" />
+            <root url="jar:///opt/jdk8u265-b01/jre/lib/ext/dtfj.jar!/" type="simple" />
+            <root url="jar:///opt/jdk8u265-b01/jre/lib/ext/dtfjview.jar!/" type="simple" />
+            <root url="jar:///opt/jdk8u265-b01/jre/lib/ext/jaccess.jar!/" type="simple" />
+            <root url="jar:///opt/jdk8u265-b01/jre/lib/ext/localedata.jar!/" type="simple" />
+            <root url="jar:///opt/jdk8u265-b01/jre/lib/ext/nashorn.jar!/" type="simple" />
+            <root url="jar:///opt/jdk8u265-b01/jre/lib/ext/sunec.jar!/" type="simple" />
+            <root url="jar:///opt/jdk8u265-b01/jre/lib/ext/sunjce_provider.jar!/" type="simple" />
+            <root url="jar:///opt/jdk8u265-b01/jre/lib/ext/sunpkcs11.jar!/" type="simple" />
+            <root url="jar:///opt/jdk8u265-b01/jre/lib/ext/traceformat.jar!/" type="simple" />
+            <root url="jar:///opt/jdk8u265-b01/jre/lib/ext/zipfs.jar!/" type="simple" />
+            <root url="jar:///opt/jdk8u265-b01/jre/lib/jce.jar!/" type="simple" />
+            <root url="jar:///opt/jdk8u265-b01/jre/lib/jsse.jar!/" type="simple" />
+            <root url="jar:///opt/jdk8u265-b01/jre/lib/management-agent.jar!/" type="simple" />
+            <root url="jar:///opt/jdk8u265-b01/jre/lib/resources.jar!/" type="simple" />
+            <root url="jar:///opt/jdk8u265-b01/jre/lib/rt.jar!/" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="jar:///opt/jdk8u265-b01/src.zip!/" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
