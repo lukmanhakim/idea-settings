@@ -1,7 +1,9 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <removed_mapping ext="klib" type="ARCHIVE" />
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="Dockerfile-order-scheduler" type="PLAIN_TEXT" />
       <mapping pattern="checkout_diagram" type="PlantUML file" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
