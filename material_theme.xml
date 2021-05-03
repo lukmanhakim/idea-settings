@@ -1,14 +1,21 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="customTreeIndentEnabled" value="true" />
     <option name="highlightColorEnabled" value="true" />
+    <option name="premium" value="true" />
+    <option name="compactSidebar" value="true" />
     <option name="isHighlightColorEnabled" value="true" />
+    <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
     <option name="statusBarTheme" value="false" />
-    <option name="settingsSelectedTab" value="4" />
+    <option name="customSidebarHeight" value="28" />
+    <option name="leftTreeIndent" value="10" />
+    <option name="settingsSelectedTab" value="2" />
+    <option name="accentColor" value="009688" />
     <option name="userId" value="-339b33fa:173a530775f:-8000" />
-    <option name="version" value="6.3.3" />
+    <option name="version" value="6.4.0" />
     <option name="tabHighlightPosition" value="Left" />
     <option name="codeAdditionsEnabled" value="false" />
   </component>
