@@ -5,7 +5,6 @@
       <mapping pattern="Dockerfile-Scheduler" type="Dockerfile" />
       <mapping pattern="Dockerfile-Backoffice" type="Dockerfile" />
       <mapping pattern="Dockerfile-scheduler" type="Dockerfile" />
-      <mapping ext="graphqlconfig" type="JSON" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
