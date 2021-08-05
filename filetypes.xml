@@ -2,9 +2,9 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="Procfile" type="AUTO_DETECTED" />
-      <mapping pattern="Dockerfile-Scheduler" type="Dockerfile" />
-      <mapping pattern="Dockerfile-Backoffice" type="Dockerfile" />
       <mapping pattern="Dockerfile-scheduler" type="Dockerfile" />
+      <mapping pattern="Dockerfile-Backoffice" type="Dockerfile" />
+      <mapping pattern="Dockerfile-Scheduler" type="Dockerfile" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
