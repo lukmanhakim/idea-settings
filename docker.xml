@@ -1,4 +1,7 @@
 <application>
+  <component name="ComposeFilesSynchronizedWithServiceView">
+    <option value="file://$USER_HOME$/Projects/icon/stroom/file/deployment/docker-production.yml" />
+  </component>
   <component name="DockerSettings">
     <option name="dockerComposePath" value="/usr/local/bin/docker-compose" />
     <option name="dockerMachinePath" value="docker-machine" />
