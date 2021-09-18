@@ -1,5 +1,10 @@
 <application>
   <component name="LightEdit">
+    <option name="sessionFiles">
+      <list>
+        <option value="file:///iconcash-cdn" />
+      </list>
+    </option>
     <option name="supportedFilePatterns">
       <list>
         <option value="*.conf" />
@@ -12,6 +17,9 @@
         <option value="*.xml" />
         <option value="*.yml" />
       </list>
+    </option>
+    <option name="frameInfo">
+      <frame x="10" y="20" width="1346" height="728" />
     </option>
   </component>
 </application>
