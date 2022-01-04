@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="Procfile" type="AUTO_DETECTED" />
+      <mapping pattern="flow_job_amr.puml" type="AUTO_DETECTED" />
       <mapping pattern="Dockerfile-scheduler" type="Dockerfile" />
       <mapping pattern="Dockerfile-Backoffice" type="Dockerfile" />
       <mapping pattern="Dockerfile-Scheduler" type="Dockerfile" />
