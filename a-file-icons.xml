@@ -1,8 +1,9 @@
 <application>
   <component name="AtomFileIconsConfig">
+    <option name="accentColorEnabled" value="true" />
     <option name="monochromeColor" value="546e7a" />
     <option name="arrowsStyle" value="Plus-Minus" />
-    <option name="accentColor" value="999999" />
+    <option name="isAccentColorEnabled" value="true" />
     <option name="themedColor" value="bbbbbb" />
   </component>
 </application>
